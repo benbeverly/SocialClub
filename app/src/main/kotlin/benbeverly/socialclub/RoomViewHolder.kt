@@ -5,7 +5,7 @@ import android.view.View
 import android.widget.TextView
 
 /**
- * TODO: Describe the class
+ * List view item for displaying room data.
  */
 class RoomViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 

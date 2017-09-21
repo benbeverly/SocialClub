@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import android.view.LayoutInflater
 
 /**
- * TODO: Describe the class
+ * Adapter to display a list of rooms
  */
 class RoomListRecyclerAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 

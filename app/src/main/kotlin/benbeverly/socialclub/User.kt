@@ -1,6 +1,6 @@
 package benbeverly.socialclub
 
 /**
- * TODO: Describe the class
+ * Model for holding a user's information
  */
 data class User (val id: String, val name: String)
